@@ -1,19 +1,20 @@
 """
 @author: Rinku
 This is the python script that is used to autobuy the product from the amazon during the flash sale
-or in daily routine
+or in daily routine.
+
 """
 
-This is the requirement file which tells the small intro of how this script is going to work.
+This is the readme file which tells about this scrip that how it's going to work.
 
-First, you must have the chrome browser as this script will only run on the chrome browser, so make sure it's installed
+First, you must have the chrome browser installed as this script will only run on the chrome browser, so make sure it's installed
 
 Important Note:
     make sure that the selenium library is installed, if not then you can install it by "pip install selenium" command
     make sure the chromium webdriver has installed.
     If not installed, here is the link you can download it: https://chromedriver.chromium.org/downloads
 
-go to loginfile:
+go to config.ini file:
     fill the details mentioned in the file
 
 How to install:
