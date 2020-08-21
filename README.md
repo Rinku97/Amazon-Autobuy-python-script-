@@ -1,6 +1,7 @@
 # Amazon-Autobuy-python-script-
 """
-@author: Rinku
+
+@author: Rinku              
 This is the python script that is used to autobuy the product from the amazon during the flash sale
 or in daily routine.
 
